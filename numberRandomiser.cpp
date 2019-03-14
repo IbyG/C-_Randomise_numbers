@@ -4,7 +4,6 @@
 #include <time.h>       /* time */
 #include <algorithm>
 
-
 using namespace std;
 
 //generates a number and returns it. (0-9)
